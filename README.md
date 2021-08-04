@@ -1,1 +1,1 @@
-# desktop-setups
+# Desktop Setups
